@@ -13,3 +13,4 @@ Additional items to take into account:
 	- v2 could be an expression matching based off differences of landmark points from their neutrals, especially for eyes and nose (mouth and jaw too subject to talking)
 - mouth resolution - could improve by using mouth splicing based off probability from the mouth facial landmarks alone
 - blinking 
+
